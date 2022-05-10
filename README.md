@@ -7,13 +7,13 @@
 </div>
 
   ##
-  <div align= "center" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/ruby-gemstone.png"/>
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="40" width="40"  src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
-  <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>
+  <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Rafa-C" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Rafa-C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
+  <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
+  <img align="center" alt="Rafa-Ruby" height="42" width="42" margin-left:5px; margin-right:5px; src="https://img.icons8.com/fluency/48/000000/ruby-gemstone.png"/>
+  <img align="center" alt="Rafa-VScode" height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   
 </div align="center">
   
