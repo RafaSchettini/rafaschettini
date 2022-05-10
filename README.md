@@ -13,7 +13,7 @@
 
 
   
-  ## ⚙️ Technologies.
+  ## 💻 Technologies.
   
   >Main Languages:
   <p>
@@ -22,9 +22,14 @@
   <img  alt="Rafa-C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
   <img  alt="Rafa-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
   <img alt="Rafa-Ruby" height="42" width="42" margin-left:5px; margin-right:5px; src="https://img.icons8.com/fluency/48/000000/ruby-gemstone.png"/>
-  <img  alt="Rafa-VScode" height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </p>
-
+  
+ ## ⚙️ Work Tools.
+  >Main Tools:
+  <p>
+  <img  alt="Rafa-VScode" height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  </p
+    
   </div align="center">
   
   ##
