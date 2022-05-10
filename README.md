@@ -32,7 +32,7 @@
     
   </div align="center">
   
-  ##
+  ## 🐍 Take me back to the 70's! 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
