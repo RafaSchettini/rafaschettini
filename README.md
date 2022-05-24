@@ -1,4 +1,4 @@
-<h2 align="left"><img width="45" align="left" src="http://static.tumblr.com/a71d4ba7efd4b30ed399af597bd1cafa/yyb4lan/xzsn121lx/tumblr_static_sleepu_kitty.gif"> Hi, It's nice to meet you!</h2>
+<h2 align="left"><img width="30" align="left" src="https://i.pinimg.com/originals/5a/bf/13/5abf1334bb320d22ccbf7ee1ead1d128.gif"> Hi, It's nice to meet you!</h2>
 
 - People call me Rafa! 🎙️
 - I live in Recife, Brazil 📍
