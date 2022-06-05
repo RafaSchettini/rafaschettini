@@ -2,7 +2,7 @@
 
 - People call me Rafa! 🎙️
 - I live in Recife, Brazil 📍
-- I'm a Computer Science (CC) Student 💻
+- I'm a Computer Science (CS) Student 💻
 - Feel free to share your knowledge with me, I'm always open to learn new things ⚡
 
 <div align="left">
