@@ -21,4 +21,4 @@ hey so I'm pretty much into software development
 ## this is how you can reach me
 
 - [mail me](mailto:rafaschettini902@gmail.com)
-- [linkedin](linkedin.com/in/rafael-schettini/)
+- [linkedin](https://linkedin.com/in/rafael-schettini/)
