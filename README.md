@@ -9,7 +9,12 @@ hey so I'm pretty much into software development
   <img alt="Rafa-Ruby" height="42" width="42" margin-left:5px; margin-right:5px; src="https://img.icons8.com/fluency/48/000000/ruby-gemstone.png"/>
   </p>
   
-  > maybe someday I'll see some rust
+> maybe someday I'll see some rust 
+  
+  mission report june 19, 2022:
+  <p> 
+  - learning rust can be tough, but fun!
+  </p>
   
 ## just can't work without these
   <p>
