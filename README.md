@@ -78,8 +78,12 @@ const schettini = {
   <summary> GitHub Stats | Click here! </summary>
   <p></p>
   
-![Schettini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaSchettini&show_icons=true&theme=gruvbox)
-<a><img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSchettini&layout=compact&theme=gruvbox"></a>
+<a href="https://github.com/rafaschettini">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaschettini&theme=gruvbox"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaschettini&layout=compact&langs_count=7&theme=gruvbox"/>
+</a>
+
+<p></p>
 
 🛑 ***Most Used Languages*** are just a metric of the languages my public code consists of and ***do not*** reflect experience or skill level 🛑
 
