@@ -96,9 +96,9 @@ const schettini = {
 
 Main Projects using [Python3](https://www.python.org)
 
-<a href="https://github.com/RafaSchettini/RealityStone_Sprint6_Esfera_Compass">
+<a href="https://github.com/RafaSchettini/python-auto-messages">
 <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaschettini&repo=python-auto-messages&theme=gruvbox"/></a>
-<a href="https://github.com/RafaSchettini/RealityStone_Sprint5_RafaSchettini_Compass">
+<a href="https://github.com/RafaSchettini/python-delete-files">
 <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaschettini&repo=python-delete-files&theme=gruvbox"/></a>
 <a href="https://github.com/RafaSchettini/Google-KickStart-2020-Round-A">
 <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaschettini&repo=Google-KickStart-2020-Round-A&theme=gruvbox"/></a> 
