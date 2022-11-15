@@ -1,24 +1,30 @@
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 <div align="center">
 
 <p>
 I'm a Computer Science Student & a Software Developer,
 
-Located in Brazil <img heigt="17" width="17" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" >, used to be a ***QA Tester*** but mainly a ***technology enthusiast!***
+Located in Brazil <img heigt="17" width="17" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" >, currently working as a ***QA Engineer*** but mainly a ***technology enthusiast!*** (aiming to be a full stack dev)
 
 ## Have knowledge in:
 
 <p>
 <img alt="Rafa-Py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img alt="Rafa-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="Rafa-NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="Rafa-Ruby" height="42" width="42" margin-left:5px; margin-right:5px; src="https://img.icons8.com/fluency/48/000000/ruby-gemstone.png"/>
 <img alt="Rafa-C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
 <img alt="Rafa-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
-<img alt="Rafa-Ruby" height="42" width="42" margin-left:5px; margin-right:5px; src="https://img.icons8.com/fluency/48/000000/ruby-gemstone.png"/>
 <p>
 <img alt="Rafa-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img alt="Rafa-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </p>
 </p>
+
+### Frameworks:
+<p>
+ <img alt="Rafa-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  
 <details>
   <summary> More about me | Click here! </summary>
@@ -40,7 +46,7 @@ const schettini = {
         technologies: {
         
             frontEnd: {
-                Javascript: ['Vanilla JS', 'React'],
+                Javascript: ['Vanilla JS', 'React', 'React-Native'],
                 HTML: ['HTML5'],
                 CSS: ['styled-components', 'Bootstrap']
             },
